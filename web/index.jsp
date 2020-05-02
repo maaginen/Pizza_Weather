@@ -15,6 +15,7 @@
       margin: 0;
       padding: 0;
     }
+  
   </style>
 </head>
 <body>
@@ -63,11 +64,8 @@
     // direction to the right and in the Y direction down.
     var image = {
       url: 'https://i.imgur.com/OQO9eGK.png',
-      // This marker is 20 pixels wide by 32 pixels high.
       size: new google.maps.Size(20, 20),
-      // The origin for this image is (0, 0).
       origin: new google.maps.Point(0, 0),
-
       anchor: new google.maps.Point(0, 20)
     };
 
@@ -101,6 +99,7 @@
       })(marker, i));
     }
   }
+
 </script>
 <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE&callback=initMap">
