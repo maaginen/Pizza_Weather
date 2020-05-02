@@ -5,12 +5,11 @@
   <meta charset="utf-8">
   <title>Pizza Weather</title>
   <style>
-    /* Always set the map height explicitly to define the size of the div
-     * element that contains the map. */
+    
     #map {
       height: 100%;
     }
-    /* Optional: Makes the sample page fill the window. */
+    
     html, body {
       height: 100%;
       margin: 0;
