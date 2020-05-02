@@ -1,4 +1,5 @@
 # Pizza_Weather
+Java web-based application that displays the current weather for the following cities super-imposed on a map of BC.
 
 # Description
 Web-based application that displays the current weather for the following cities super-imposed on a map of BC:
