@@ -11,6 +11,8 @@ Web-based application that displays the current weather for the following cities
 -Revelstoke;
 -Creston.
 
+![Alt text](Screen.png "Main")
+
 # Usage
 Place your API key.
 Click on the pizza marker opens a window with weather information.
