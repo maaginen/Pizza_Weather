@@ -11,7 +11,8 @@ Web-based application that displays the current weather for the following cities
 -Creston.
 
 # Usage
-Click on the pizza marker opens a window with weather information
+Place your API key.
+Click on the pizza marker opens a window with weather information.
 
 # Build by
 Volodymyr Protsenko
